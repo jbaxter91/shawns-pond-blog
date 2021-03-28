@@ -1,0 +1,16 @@
+body{
+    background-color: lightgrey;
+}
+
+navbar {
+    background-color: deepskyblue;
+}
+
+.blog-card{
+    background-color: blanchedalmond;
+    border-style: solid;
+}
+
+#about-me{
+    border-style: solid;
+}
